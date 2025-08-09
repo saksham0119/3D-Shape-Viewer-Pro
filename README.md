@@ -1,5 +1,4 @@
-# 3D-Shape-Viewer-Pro
-A Python tool to visualize 3D shapes with interactive controls using Matplotlib
+
 # 3D Shape Viewer Pro  
 
 A Python-based interactive 3D shape visualization tool with password protection and real-time controls.  
